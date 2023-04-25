@@ -1,2 +1,3 @@
-# GIT
-local to remote
+Background
+Install
+Usage
