@@ -1,12 +1,12 @@
 # 用Git版本控制資料庫Query
 ## Background
 
-將SQL檔案利用Git串連到GitHub，學習如何在本地端及遠端做版本控制。
+將SQL檔案利用Git串連到GitHub，學習如何在本地端及遠端做分散式版本控制。
 
 ## Ready to Learn
 * 理解分散式版本控制軟體的概念
 * 實作Git基本指令
-* push 到自己的GitHub遠端數據庫
+* 本地端連結到GitHub遠端數據庫
 
 ## Install
 在終端機下指令安裝Homebrew
@@ -92,4 +92,9 @@ git mv 變更檔名
 ```
 $ git mv 0424.sql Jobs.application.sql
 ```
+
+結果呈現
+![ReginaMao](https://imgur.com/1APBhUS.png "install")
+![ReginaMao](https://imgur.com/pg4thTf.png "install")
+
 ## Result
