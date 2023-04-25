@@ -57,7 +57,7 @@ $ mkdir test
 $ touch index.html
 ```
 
-建立本地數據庫
+數據庫初始化，建立本地數據庫
 ```
 $ git init
 ```
@@ -68,4 +68,28 @@ MAC鍵盤快捷鍵Shift+Command+ .
 ```
 ![ReginaMao](https://imgur.com/3Ww6bHw.png "install")
 
+將檔案加入索引(Staging Area)
+```
+$ git add 0424.sql
+```
+
+檢查檔案狀態
+```
+$ git status
+```
+
+新建版本(Commit)，將新索引的檔案加入本地數據庫
+```
+$ git commit -m "init commit"
+```
+
+檢查Commit記錄
+```
+$ git log
+```
+
+git mv 變更檔名
+```
+$ git mv 0424.sql Jobs.application.sql
+```
 ## Result
