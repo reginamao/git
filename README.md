@@ -110,5 +110,12 @@ $ git remote add origin https://github.com/reginamao/GIT.git
 ```
 $ git push -u origin master
 ```
+
 GitHub結果呈現
+
 ![ReginaMao](https://imgur.com/xFKefrV.png "commit")
+
+## Reference Source
+* [W3HexSchool](https://w3c.hexschool.com/category/repo)
+* [Mia Hsu](https://miahsuwork.medium.com/%E7%AC%AC%E4%B8%80%E9%80%B1-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E8%88%87-git-%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4-fa3c4ba286a2)
+* [Chun.y.c](https://ithelp.ithome.com.tw/users/20141010/ironman/4499o)
