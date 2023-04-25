@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Ready to Learn](#readytolearn)
+- [Ready to Learn](#ready-to-learn)
 - [Install](#install)
 - [Config](#config)
-- [Basic Commands](#basiccommands)
-- [Pushing Commits to a Remote Repository](#pushingcommitstoaremoterepository)
-- [Reference Source](#referencesource)
+- [Basic Commands](#basic-commands)
+- [Pushing Commits to a Remote Repository](#pushing-commits-to-a-remote-repository)
+- [Reference Source](#reference-source)
 
 ## Background
 
