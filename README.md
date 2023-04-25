@@ -94,7 +94,9 @@ $ git mv 0424.sql Jobs.application.sql
 ```
 
 結果呈現
+
 ![ReginaMao](https://imgur.com/1APBhUS.png "install")
+
 ![ReginaMao](https://imgur.com/pg4thTf.png "install")
 
 ## Result
