@@ -1,4 +1,15 @@
 # 用Git版本控制資料庫Query
+
+## Table of Contents
+
+- [Background](#background)
+- [Ready to Learn](#readytolearn)
+- [Install](#install)
+- [Config](#config)
+- [Basic Commands](#basiccommands)
+- [Pushing Commits to a Remote Repository](#pushingcommitstoaremoterepository)
+- [Reference Source](#referencesource)
+
 ## Background
 
 將SQL檔案利用Git串連到GitHub，學習如何在本地端及遠端做分散式版本控制。
