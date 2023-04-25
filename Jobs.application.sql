@@ -32,5 +32,13 @@ INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` 
 INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` ) VALUES('24', 'Mobagel 行動貝果有限公司', 'Data Scientist Internship','Taipei','NULL');
 
 alter table application add Status varchar(50);
-select * from application;
+
 update application set Status = "邀請面試" where Order_ID = 17;
+update application set Status = "已讀履歷" where Order_ID = 01;
+update application set Status = "未能面試" where Order_ID = 02;
+update application set Status = "未能面試" where Order_ID = 03;
+update application set Status = "未能面試" where Order_ID = 05;
+update application set Status = "已讀履歷" where Order_ID = 09;
+update application set Status = "已讀履歷" where Order_ID = 10;
+update application set Status = "已讀履歷" where Order_ID = 13;
+update application set Status = "已讀履歷" where Order_ID = 19;
