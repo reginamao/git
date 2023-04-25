@@ -1,13 +1,14 @@
-# Background
+# 用Git版本控制資料庫Query
+## Background
 
 ##### 學習版本控制管理系統-Git
 
 
-# Install
+## Install
 ##### 用Homebrew安裝Git
 ![ReginaMao](https://imgur.com/irdLDfp.png "instakk")
 
 
-# Usage
+## Usage
 
-# Result
+## Result
