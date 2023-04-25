@@ -30,3 +30,7 @@ INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` 
 INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` ) VALUES('22', '緯育股份有限公司', '數據資料分析工程師','Taipei','40k - 70k / mo');
 INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` ) VALUES('23', 'iChef', 'Data Engineer','Taipei','77k - 95k / mo');
 INSERT INTO `application`(`ORDER_ID`, `Company`, `Position`,`Location`,`Salary` ) VALUES('24', 'Mobagel 行動貝果有限公司', 'Data Scientist Internship','Taipei','NULL');
+
+alter table application add Status varchar(50);
+select * from application;
+update application set Status = "邀請面試" where Order_ID = 17;
