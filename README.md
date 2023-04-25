@@ -95,8 +95,20 @@ $ git mv 0424.sql Jobs.application.sql
 
 結果呈現
 
-![ReginaMao](https://imgur.com/1APBhUS.png "install")
+![ReginaMao](https://imgur.com/1APBhUS.png "basic")
 
-![ReginaMao](https://imgur.com/pg4thTf.png "install")
+![ReginaMao](https://imgur.com/pg4thTf.png "basic")
 
-## Result
+## Pushing Commits to a Remote Repository
+
+加入遠端數據庫節點
+```
+$ git remote add origin https://github.com/reginamao/GIT.git
+```
+
+從本地端檔案庫(local repo)推上遠端檔案庫(remote repo)
+```
+$ git push -u origin master
+```
+GitHub結果呈現
+![ReginaMao](https://imgur.com/xFKefrV.png "commit")
