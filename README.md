@@ -27,7 +27,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 用Homebrew下載Git
 ```
-brew install git
+$ brew install git
 ```
 
 檢查Git版本
