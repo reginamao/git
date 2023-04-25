@@ -1,7 +1,7 @@
 # 用Git版本控制資料庫Query
 ## Background
 
-##### 將SQL檔案利用Git串連到GitHub，學習如何版本控制，
+將SQL檔案利用Git串連到GitHub，學習如何在本地端及遠端做版本控制。
 
 
 ## Install
